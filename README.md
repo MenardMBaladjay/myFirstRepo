@@ -1,2 +1,2 @@
 # myFirstRepo
-this is my first repository and also new activity
+this is my new repository and also new activity
